@@ -1,0 +1,7 @@
+echo "# IOP-TF" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/XinZinC1/IOP-TF.git
+git push -u origin main
